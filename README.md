@@ -8,7 +8,7 @@ https://kdocs.cn/l/cmqB5kYnODzN
 
 昨天CF域名大量被国内DNS污染
 
-现在推出CloudFlare Workers 被墙解决方案
+现在推出CloudFlare Workers 被墙解决方案 教程更加简单步骤更少！
 
 【金山文档】 CloudFlare Workers 被墙解决方案
 https://kdocs.cn/l/cp7ppdbff6Yw
